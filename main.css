@@ -1,0 +1,16 @@
+.flex {
+    display: flex;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.w-7 {
+    width: 70%;
+}
+
+.w-3 {
+    width: 30%;
+}
+
