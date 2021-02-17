@@ -14,3 +14,7 @@
     width: 30%;
 }
 
+.border-right {
+    border-style: none solid none none;
+    border-color: #555;
+}
