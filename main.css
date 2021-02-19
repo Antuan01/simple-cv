@@ -18,6 +18,10 @@
     width: 30%;
 }
 
+.w-95 {
+    width: 95%;
+}
+
 .border-right {
     border-style: none solid none none;
     border-color: #555;
