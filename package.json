@@ -1,0 +1,16 @@
+{
+  "name": "simple-cv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Antuan01/simple-cv.git",
+  "author": "Antuan <jose.agreda@brickken.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "yarn http-server ./",
+    "p": "yarn prettier --write ."
+  },
+  "dependencies": {
+    "http-server": "^14.1.0",
+    "prettier": "^2.6.2"
+  }
+}
