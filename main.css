@@ -23,7 +23,9 @@
   margin-right: 2em;
 }
 
-div {
+/* DEBUG STYLES  */
+
+/* div {
   border-color: crimson;
   border-radius: 2px;
   border-style: dashed;
@@ -33,11 +35,12 @@ p {
   border-color: cyan;
   border-radius: 2px;
   border-style: solid;
-}
+} */
 
 @media only screen and (max-width: 600px) {
-  .content {
-  }
+  /* .content {
+
+  } */
 
   .block1 {
     padding: 2em;
